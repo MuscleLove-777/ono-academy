@@ -1,0 +1,12 @@
+# 小野薬品アカデミー - オプジーボで世界を変えた創薬企業を学ぶ
+
+> 小野薬品アカデミー - 1717年創業の老舗製薬企業、小野薬品工業を徹底的に学べるプラットフォームです。
+
+## Main Pages
+
+- [ono academy](https://musclelove-777.github.io/ono-academy/): main page of 小野薬品アカデミー - オプジーボで世界を変えた創薬企業を学ぶ.
+
+## About this file
+
+This llms.txt follows the llmstxt.org proposal and lists the main entry points of this site for LLM-based crawlers and AI search agents.
+Generated automatically from sitemap.xml. Source repository: https://github.com/MuscleLove-777/ono-academy
